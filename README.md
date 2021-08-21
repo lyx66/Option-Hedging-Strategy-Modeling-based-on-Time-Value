@@ -7,3 +7,6 @@ by ***Yingxin LIN***
 - Specifically, I buy option contracts with large time value and sell option contracts with small time value.
 - Each month, I construct portfolios on the first trading day, and then I close portfolios on the last trading day.
 ### Returns of the strategy
+*Fig.1 Cumulative returns of the strategy (compared with SSE index)*
+
+![p2](https://raw.githubusercontent.com/lyx66/limyingxin/5855d78f084d01df16617639ea49371b6b0273ed/p2.svg)
