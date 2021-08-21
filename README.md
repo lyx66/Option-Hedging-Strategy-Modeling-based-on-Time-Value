@@ -1,4 +1,4 @@
-## Option-Hedging-Strategy-Modeling-based-on-Time-Value
+## Option-Hedging-Strategy-Modeling-based-on-Time-Value-of-Option-Itself
 by ***Yingxin LIN***
 ### Introduce
 - Python code for a trading strategy based on ***time value*** performed in the *SSE 50ETF* option (European option) market of China.
