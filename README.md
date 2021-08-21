@@ -1,5 +1,5 @@
 ## Option-Hedging-Strategy-Modeling-based-on-Time-Value
-by *Yingxin LIN*
+by ***Yingxin LIN***
 ### Introduce
 - A trading strategy based on ***time value*** performed in the *SSE 50ETF* option (European option) market of China.
 ### Strategy
