@@ -25,3 +25,9 @@ by ***Yingxin LIN***
 ***Fig.4 Cumulative returns of strategy applied on the imaginary virtual options (with different EPS)***
 
 ![p5](https://raw.githubusercontent.com/lyx66/limyingxin/5855d78f084d01df16617639ea49371b6b0273ed/p5.svg)
+### Copyright notice
+- AUTHOR: __*Yingxin LIN*__
+- Company: *School of Finance, Central University of Finance and Economics* (CUFE)
+- Contact: lyxurthebest@163.com or lyxurthebest@outlook.com
+- The copyright belongs to __*Yingxin LIN*__ , 2021/08/11.
+#### *Enjoy*（。＾▽＾) *! (...and extend/modify)* 😊
