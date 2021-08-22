@@ -1,7 +1,7 @@
 ## Option-Hedging-Strategy-Modeling-based-on-Time-Value
 by ***Yingxin LIN***
 ### Introduce
-- Python code for a trading strategy based on ***time value*** performed in the *SSE 50ETF* option (European option) market of China.
+- Python code for a trading strategy based on ***time value***, which is performed in the *SSE 50ETF* option market of China.
 ### Strategy
 - I apply the time value of options as an indicator, to build a hedging strategy. 
 - Specifically, I buy option contracts with large time value and sell option contracts with small time value.
