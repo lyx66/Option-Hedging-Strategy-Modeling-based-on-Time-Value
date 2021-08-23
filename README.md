@@ -11,8 +11,8 @@ by ***Yingxin LIN***
 
 ![p2](https://raw.githubusercontent.com/lyx66/limyingxin/5855d78f084d01df16617639ea49371b6b0273ed/p2.svg)
 ### Robust Test & Attribution of Strategy
-- I divide options into fair value options and imaginary value options, and backtest the strategy on both of them respectively.
-- The division was based on `S/K - 1` value (*i.g.* EPS) of each option.
+- I divide options into fair value options and imaginary value options, and back-test the strategy on both of them respectively.
+- The division is based on `S/K - 1` value (*i.g.* EPS) of each option.
 
 ***Fig.2 Price status of options in the sample period***
 
